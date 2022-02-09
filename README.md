@@ -22,4 +22,5 @@ We will use:
   <li>$ pip install python-dotenv</li>
   <li>$ sudo nano .flaskenv</li>
   <li>inside .flaskenv define two variables FLASK_APP=flaskblog.py & SECRET_KEY='<...>'</li>
+  <li>$ flask run</li>
  </ol>
