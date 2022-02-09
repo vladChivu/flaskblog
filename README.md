@@ -8,7 +8,7 @@ Learning Flask
 
 We will use:
 <ol>
-  <li>Python 3.8</li>
+  <li>Python 3.8 & pip</li>
   <li>Flask & other dependencies</li>
  </ol>
  
