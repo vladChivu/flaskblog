@@ -19,8 +19,5 @@ We will use:
   <li>$ virtualenv venv</li>
   <li>$ source venv/bin/activate</li>
   <li>$ pip install -r requirements.txt</li>
-  <li>$ pip install python-dotenv</li>
-  <li>$ sudo nano .flaskenv</li>
-  <li>inside .flaskenv define two variables FLASK_APP=flaskblog.py & SECRET_KEY='<...>'</li>
   <li>$ flask run</li>
  </ol>
