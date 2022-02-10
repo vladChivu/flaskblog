@@ -21,6 +21,6 @@ We will use:
   <li>$ pip install -r requirements.txt</li>
   <li>$ pip install python-dotenv</li>
   <li>$ sudo nano .flaskenv</li>
-  <li>inside this .flaskenv file define two variables SECRET_KEY='<your_secret_key>' & SQLALCHEMY_DATABASE_URI='sqlite:///<your_db_name>.db'</li>
+  <li>inside this .flaskenv file define two variables SECRET_KEY='your_secret_key' & SQLALCHEMY_DATABASE_URI='sqlite:///your_db_name.db'</li>
   <li>$ python3 run.py</li>
  </ol>
