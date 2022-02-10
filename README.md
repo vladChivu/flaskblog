@@ -19,5 +19,8 @@ We will use:
   <li>$ virtualenv venv</li>
   <li>$ source venv/bin/activate</li>
   <li>$ pip install -r requirements.txt</li>
-  <li>$ flask run</li>
+  <li>$ pip install python-dotenv</li>
+  <li>$ sudo nano .flaskenv</li>
+  <li>inside .flaskenv define two variables SECRET_KEY='<your_secret_key>' & SQLALCHEMY_DATABASE_URI='sqlite:///<your_db_name>.db'</li>
+  <li>$ python3 run.py</li>
  </ol>
